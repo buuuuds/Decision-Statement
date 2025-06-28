@@ -20,6 +20,7 @@ The program:
 
 ## 🧪 Sample Output
 
+
 ```text
 How many students you have (1-10)? 3
 
